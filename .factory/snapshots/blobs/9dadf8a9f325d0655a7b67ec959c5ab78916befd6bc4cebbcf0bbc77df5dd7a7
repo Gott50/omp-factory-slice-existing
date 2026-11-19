@@ -1,0 +1,1 @@
+{"app":{"env":{},"health":"","journeys":[{"id":"suite","text":"the test suite passes"}],"shape":"library","start":"bun test","timeout_s":120},"regression":{"enabled":false}}
